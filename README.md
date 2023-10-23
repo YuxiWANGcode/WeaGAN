@@ -1,5 +1,8 @@
 # WeaGAN: Weather-Aware Graph Attention Network for Traffic Prediction
 
+<div align=center><img width="500" src="https://github.com/YuxiWANGcode/WeaGAN/blob/main/figures/model.PNG"/></div>
+
+
 This is a TensorFlow implementation our ECAI2023 paper: Wang Yuxi and Luo yuan.[WeaGAN: Weather-Aware Graph Attention Network for Traffic Prediction](https://www.researchgate.net/publication/374311830_WeaGAN_Weather-Aware_Graph_Attention_Network_for_Traffic_Prediction)
 
 # Data 
@@ -12,4 +15,5 @@ Dependency can be installed using the following command:
 ```
 pip install -r denpendency.txt
 ```
-
+# Results
+<div align=center><img hight="500" src="https://github.com/YuxiWANGcode/WeaGAN/blob/main/figures/result.PNG"/></div>
