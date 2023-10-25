@@ -8,7 +8,7 @@ This is a TensorFlow implementation our ECAI2023 paper: Wang Yuxi and Luo yuan.[
 # Data 
 The traffic datasets are available at [Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX) or [Baidu Yun](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F), provided by [DCRNN](https://github.com/liyaguang/DCRNN), and should be put into the corresponding `data/` folder.
 
-The weather datasets are available at [OpenWeather](https://openweathermap.org/)
+The weather datasets are available at [OpenWeather](https://openweathermap.org/) by use the API to get the data you need. Here is a dataset of wind speed to demonstrate the format of multi-weather datasets. The dataset are available at [Google Drive](https://drive.google.com/file/d/1q75QGcMZFw6P9Ke7HuzbPQ7Xpg1MvMkL/view?usp=sharing) or [Baidu Yun](https://pan.baidu.com/s/1vvPSbt-gZqIxcCPrwpFaYw?pwd=azcn).
 
 # Requirements
 Dependency can be installed using the following command:
